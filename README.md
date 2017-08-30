@@ -1,3 +1,5 @@
+添加权限验证，修复闪退的bug
+
 cordova-imagePicker
 ===================
 
